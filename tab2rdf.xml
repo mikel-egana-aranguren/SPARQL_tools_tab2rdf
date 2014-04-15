@@ -44,7 +44,7 @@
     </repeat>
   </inputs>
   <outputs>
-    <data name="output_file" format="tabular" label="${tool.name} on ${on_string}"/>
+    <data name="output_file" format="rdf" label="${tool.name} on ${on_string}"/>
   </outputs>
   <help>
     
